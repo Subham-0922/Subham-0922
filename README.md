@@ -22,7 +22,7 @@
 -  🌎 Let's Create something the World needs 🌎
 
 
-<p> <a href="https://www.linkedin.com/in/subham-kumar789/"
+<p> <a href="https://www.linkedin.com/in/divyansh-goel-3810b3112/"
 " target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://Subham-0922.github.io/" target="text-decoration:none">
    <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
@@ -49,14 +49,14 @@
 </div>
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/Spring--Boot-%20Spring-green" align="center" height=20px alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
 <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
  </div>
   <div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/Spring--Boot-%20-green" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
