@@ -7,15 +7,15 @@
 <h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </h2>
 <img align="right" alt "Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyansh9058&label=Profile%20views&color=0e75b6&style=flat" alt="Divyansh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Subham-0922&label=Profile%20views&color=0e75b6&style=flat" alt="Divyansh" /> </p>
 
 
 
-👨‍💻 See my Portfolio here <a href="https://Divyansh9058.github.io/">Portfolio</a>
+👨‍💻 See my Portfolio here <a href="https://Subham-0922.github.io/">Portfolio</a>
 
-- 📫 Reach me at divyanshgoel777@gmail.com
+- 📫 Reach me at ksubham789@gmail.com
 
-- 📄 Know more about me [Resume](https://drive.google.com/drive/folders/1PsNNGJZwSZCS8evbsrCq8TXIrpAa-5_v)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1lC-oYhA-wc5vqz635tqti0u_TtUm7Tx6/view?usp=sharing)
 
 - ⚡ Fun fact - I love Writing 🖊️
 
@@ -24,7 +24,7 @@
 
 <p> <a href="https://www.linkedin.com/in/divyansh-goel-3810b3112/"
 " target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://Divyansh9058.github.io/" target="text-decoration:none">
+  <a href="https://Subham-0922.github.io/" target="text-decoration:none">
    <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
 </p>
@@ -41,14 +41,10 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" align="center" style="paddding : 5px;" alt="TypeScript" />
+
 <br/>
-<br/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+
+ 
   
 </div>
  <br/>
