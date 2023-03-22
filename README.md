@@ -1,90 +1,56 @@
-<h1 align="center">Hi 👋, I'm Subham Kr Burnwal</h1>
-<br/>
-<div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Java+Backend+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
-</div>
-<h2>- Full Stack Web Developer skilled in JavaScript and Java</h2>
-<h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </h2>
-<img align="right" alt "Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Subham-0922&label=Profile%20views&color=0e75b6&style=flat" alt="Divyansh" /> </p>
-
-
-
-👨‍💻 See my Portfolio here <a href="https://Subham-0922.github.io/">Portfolio</a>
-
-- 📫 Reach me at ksubham789@gmail.com
-
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1lC-oYhA-wc5vqz635tqti0u_TtUm7Tx6/view?usp=sharing)
-
-- ⚡ Fun fact - I love Writing 🖊️
-
--  🌎 Let's Create something the World needs 🌎
-
-
-<p> <a href="https://www.linkedin.com/in/divyansh-goel-3810b3112/"
-" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://Subham-0922.github.io/" target="text-decoration:none">
-   <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-</a>
-</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-<h3 align="left">🚀 Languages and Tools:</h3>
-<div align="center">
- 
- <div align="center"><h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-
-<br/>
-
- 
-  
-</div>
- <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Spring--Boot-%20Spring-green" align="center" height=20px alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-<img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
- </div>
-  <div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <br/>
-<br/>
- </div>
-</div>
-
-<br/>
-  
-  ##
- 
- 
- ## 📊 My Github Stats
-
 <p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Divyansh Goel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh9058&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+from+Subham!;Aspiring+Java+Developer+From+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p> 
+
+## 👨‍💻 About me :
+
+- 🌱 I’m currently learning **Java**
+<!-- - , SpringBoot, Hibernate, MySQL -->
+
+- 💬 Ask me about **HTML, CSS, JavaScript, DSA**
+
+- 📫 How to reach me : **ksubham789@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[Portfolio](https://Subham-0922.github.io/)**
+
+## 🌐 Socials :
+
+><a href="https://www.linkedin.com/in/subham-kumar789/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Subham-0922" height="30" width="40" /></a>
+
+<!-- <a href="https://www.hackerrank.com/ksubham789/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Subham-0922" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/SubhamBurnwal14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Subham-0922" height="30" width="40" /></a> -->
 
 
-  <br/>
-  
-<p align="center">
-   <img alt="Divyansh Goel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Divyansh9058&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
- </p> 
- <br/>
+## 💻 Tech Stack :
+>![HTML5](https://img.shields.io/badge/html5-0a0c10.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-0a0c10.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Java](https://img.shields.io/badge/java-0a0c10?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-0a0c10.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-0a0c10?style=for-the-badge&logo=git&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-0a0c10.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<!-- 
+## 📜 Projects :
+
+| S.No. | Project | Tech-Stack |  Collaborative | Role | Span (Days) | Clone of |
+|:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
+| 1 |  [PoshStorm](https://elegant-lebkuchen-d12793.netlify.app/)| HTML, CSS and JavaScript | `Yes`|  Team member| 5 |[NordStorm](https://www.nordstrom.com/)|
+| 2 |  [TeamIntern](https://tranquil-kangaroo-a2087d.netlify.app/)| HTML, CSS and JavaScript| `No` | Individual|   5 |[InternTheory]https://www.interntheory.com/)|       -->
+
+
+## 📊 GitHub Stats :
+
+<a href="https://github.com/Subham-0922?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Subham-0922&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="45%" alt="Subham-0922 github-readme-stats"/></a>
+<a href="https://github.com/Subham-0922?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Subham-0922&theme=gotham&hide_border=true"  width="45%" alt="Subham-0922 github-readme-streak-stats"/></a>
+<!-- <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subham-0922&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="Subham-0922" width="45%" align="left"></a> -->
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Subham-0922&label=Profile%20views&color=0e75b6&style=flat" alt="Subham-0922" /> </p>
+
+
+<h3 align="center">Thanks for visiting! :blush: </h3>
+
+
